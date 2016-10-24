@@ -1,12 +1,24 @@
 {
   "name": "imagesearch",
   "version": "1.0.1",
-  "description": "",
   "main": "server.js",
   "author": "babooon",
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0",
     "request": "^2.75.0"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babooon/imagesearch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/babooon/imagesearch/issues"
+  },
+  "homepage": "https://github.com/babooon/imagesearch#readme",
+  "description": ""
 }
